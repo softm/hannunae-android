@@ -1,0 +1,19 @@
+{
+  "source": "https://github.com/softm/hannunae-web",
+  "files": {
+    "app.js": "af35363664e69b4dd3a13145afcbe743b94f750d9b5c8e73766605159c8331a1",
+    "common-account.css": "f8d7e7b90ddb6369d46ae2eae473e838fd39bf2c90627c1390b8477916af4f11",
+    "common-account.js": "940d4885eac2d9ea49f9a162e090c4368ca31f1539c7dad635afb68903866e39",
+    "core.js": "d9a1aed1676eb063aa8f626aff0ab210c094b8796b3b800cf74bdad2bd1cd39b",
+    "icon-192.png": "087124fc47ceb613b6a35b5bdb56614c143e685e1212297b01f1a233eee710d9",
+    "icon-512.png": "c305c40a6c8b3327aef7d62fca0a8b83ece7a65c6547f7e3f402dc4803e20595",
+    "icon.svg": "039c9b82c7782c958d73bcf6dd66a01943fe4511af70083c219c5dcda1e82222",
+    "index.html": "72cf177bddcf5300d450756372c0b1474cd55f077233e036b5cadaafc09ea8df",
+    "manifest.webmanifest": "0d8d053af805757b4d4e4b1e15a068bae156027ae97fcef9f7b05b466c52b084",
+    "native-bridge.js": "4adb48500ca22855081f3f9fbb74f8dfb4c5bf08bd3b903e2fcecb7ead12cf4f",
+    "pwa.js": "f5201df53c1859c641b52e708061ab5c37d86c2909e75f4238a820c2a3e01b17",
+    "style.css": "960b12eb5477dd3152e77df86866291fe54e6db347380efed5e36238b16b6372",
+    "sw.js": "8503a0defb9ac5f9ff6fdf215a6baf9a456318e2efa5045caa53560e7aa20b95"
+  },
+  "source_commit": "428e765ebb0d5ac3e60934b474acd55204f4df1b"
+}

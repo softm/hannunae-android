@@ -1,0 +1,5 @@
+# Use only the existing softm.keystore.jks; never generate a new production key.
+storeFile=/absolute/path/to/softm.keystore.jks
+storePassword=
+keyAlias=
+keyPassword=

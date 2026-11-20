@@ -1,0 +1,3 @@
+[submodule "libraries/hannun-webview-android"]
+	path = libraries/hannun-webview-android
+	url = https://github.com/softm/hannun-webview-android.git

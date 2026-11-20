@@ -1,0 +1,6 @@
+# Issue app-specific production IDs. Never reuse another app's IDs.
+ADMOB_APP_ID=
+ADMOB_NATIVE_ID=
+ADMOB_ADAPTIVE_BANNER_ID=
+ADMOB_INTERSTITIAL_ID=
+ADMOB_EXIT_BANNER_ID=
